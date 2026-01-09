@@ -1,2 +1,2 @@
 # config-readme
-## readme 실습 2차
+## readme 실습 3차
